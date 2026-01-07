@@ -45,7 +45,7 @@ Sử dụng `degit` để tải code về mà không dính lịch sử git cũ.
 **Bước 1: Tải code về thư mục dự án mới**
 
 ```bash
-npx degit <github-username>/<repo-template-name> <tên-dự-án-mới>
+npx degit Quan-129/startApp <tên-dự-án-mới>
 # Ví dụ: npx degit Quan-129/startApp du-an-ban-hang
 ```
 
